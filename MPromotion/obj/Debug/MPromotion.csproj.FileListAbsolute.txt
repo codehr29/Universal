@@ -1,0 +1,9 @@
+C:\Users\Hari\source\repos\MPromotion\MPromotion\bin\Debug\MPromotion.exe.config
+C:\Users\Hari\source\repos\MPromotion\MPromotion\bin\Debug\MPromotion.exe
+C:\Users\Hari\source\repos\MPromotion\MPromotion\bin\Debug\MPromotion.pdb
+C:\Users\Hari\source\repos\MPromotion\MPromotion\obj\Debug\MPromotion.Main.resources
+C:\Users\Hari\source\repos\MPromotion\MPromotion\obj\Debug\MPromotion.Properties.Resources.resources
+C:\Users\Hari\source\repos\MPromotion\MPromotion\obj\Debug\MPromotion.csproj.GenerateResource.cache
+C:\Users\Hari\source\repos\MPromotion\MPromotion\obj\Debug\MPromotion.csproj.CoreCompileInputs.cache
+C:\Users\Hari\source\repos\MPromotion\MPromotion\obj\Debug\MPromotion.exe
+C:\Users\Hari\source\repos\MPromotion\MPromotion\obj\Debug\MPromotion.pdb
